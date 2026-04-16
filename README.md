@@ -35,3 +35,8 @@ Se abrirá una ventana. No busques el servicio ahí. Haz clic en el botón infer
 8.Ejecuta el webservice MathCliente2 
 
 
+# Referencias:
+
+https://learn.microsoft.com/es-es/troubleshoot/developer/visualstudio/csharp/language-compilers/write-web-service
+
+
